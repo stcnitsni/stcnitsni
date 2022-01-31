@@ -1,0 +1,3 @@
+Small C++ project created for University module examination. 
+Project is based on a tamagotchi from the 90s which uses functions allowing user to create pet(s) as well as feed, hydrate, walk and let their pet walk. 
+OOP is used for each individual pet. Stores the pet's hunger, hydration, tiredness, excitement and happiness levels which can be altered through functions mentioned above. 
