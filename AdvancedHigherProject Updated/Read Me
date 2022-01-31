@@ -1,0 +1,8 @@
+This is a basic chess game I created for my high school project using Visual Basic (language we were using at the time). 
+It was my first decently sized project which made use of a decent amount of Object Orientated Programming (for the individual chess pieces, board locations and players) and utilised
+a local web server which stored player's details (forename, surname, age, username, password) and statistics (games played, won, lost, win rate, etc).
+
+Given that I spent a month creating this it's a bit rough around the edges and inefficient in parts. I had to cut out a couple of features (checkmate, AI controlling pieces, AI levels etc)
+due to time constraints.
+
+If anyone has any recommendations on how to improve efficiency of parts of the program, shoot me a message on discord.
